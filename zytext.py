@@ -8,3 +8,4 @@ def get_line_count(file):
         for i, l in enumerate(f):
             pass
         return i+1
+a=1
