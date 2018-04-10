@@ -9,3 +9,4 @@ def get_line_count(file):
             pass
         return i+1
 a=1
+b=2
